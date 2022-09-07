@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Allerta";
+}
+
+#navbarMonstera {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 6vh;
+    padding: 4vh 40px; 
+}
+
+#navMid {
+    flex: 2;
+    display: flex;
+    justify-content: space-around;
+}
+
+#navEnd {
+    display: flex;
+}
+
+
+#navEnd div{
+    margin-right: 25px;
+}
+
+
+/* hero */
+
+#midWhole {
+    display: flex;
+    height: 90vh;
+    padding-left: 50px;
+}
+
+#imgMain{
+    height: 90vh;
+}
+
+
+
+
+#midWholePart11{
+    padding-top: 15%;
+}
+
+#monstera {
+   font-weight: 900;
+   font-size: 6rem;
+
+}
+
+#midWholePart11 ul :nth-child(3), #midWholePart11 ul :nth-child(4) {
+    font-family: "Abel";
+    font-size: 1.3rem;
+}
+
+#midWholePart12 {
+    padding-top: 4rem;
+    padding-left: 50px;
+    padding-bottom: 4rem;
+} 
+
+#midWholePart121 {
+    display: inline-block;
+    background-color:#466D50;
+    border-radius: 3rem;
+    padding: 10px 20px;
+    font-size: 1.3rem;
+    color: #fff;
+    
+}
+
+#midWholePart121 div{
+    display: inline-block;
+}
+
+
+
+/* lower card */
+
+#midWholePart13 {
+    display: flex;
+}
+
+.midWholePart13Parts{
+    display: flex;
+}
+
+.midWholePart13Parts div img {
+    padding-right: 10px;
+}
+
+.text {
+    font-size: 0.8rem;
+    color: rgb(85, 83, 83);
+}
+
+
+
+
+
+
+
