@@ -1,7 +1,7 @@
 
-# MONSTERA
+# Headphone e-comerce
 
-A website navigation bar and hero section 
+A website navigation bar and hero section gor e-commerce website
 
 
 ## Author
@@ -28,8 +28,8 @@ I'm vikash a full stack web developer...
 
 ## Project link
 
- - [SOURCE CODE](https://github.com/vku42/project-6)
- - [DEPLOYMENT](project-6-9eu14ekjy-vku42.vercel.app)
+ - [SOURCE CODE](https://github.com/vku42/project-7)
+ - [DEPLOYMENT](project-7-ah41817ca-vku42.vercel.app)
  
 
 
@@ -42,7 +42,7 @@ HTML, CSS
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/vku42/project-6/main/6.png)
+![Screenshot](https://raw.githubusercontent.com/vku42/project-7/main/thumbnail.png)
 
 
 
@@ -52,6 +52,7 @@ HTML, CSS
 
 Developing this project was easy. concepts used are basics of positning. 
 learned how to position verious elements on a page.it took 1 day to complete this project
+this project is responsive as well. learned media query to make this responsive 
 
 
 
